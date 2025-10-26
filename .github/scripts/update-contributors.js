@@ -34,10 +34,9 @@ function writeFile(p, content) {
 }
 
 function hasRequiredSection(readme) {
-  const hasSummary = readme.includes(DETAILS_SUMMARY_TEXT);
   const hasMarkers =
     readme.includes(START_MARKER) && readme.includes(END_MARKER);
-  return hasSummary && hasMarkers;
+  return hasMarkers;
 }
 
 function replaceBetweenMarkers(readme, innerHtml) {
@@ -61,7 +60,14 @@ function buildContributorsHtml(contributors) {
       const html_url = c.html_url ?? `https://github.com/${login}`;
       const avatar = c.avatar_url;
       const alt = login;
-      return `<a href="${html_url}" title="${login}"><img src="${avatar}" width="${AVATAR_SIZE}" height="${AVATAR_SIZE}" alt="${alt}" style="border-radius: 50%; margin: 4px;"/></a>`;
+
+      // Extract the avatar URL and encode it for weserv.nl
+      const encodedAvatarUrl = encodeURIComponent(
+        avatar.replace("https://", "")
+      );
+      const circularImageUrl = `https://images.weserv.nl/?url=${encodedAvatarUrl}&w=${AVATAR_SIZE}&h=${AVATAR_SIZE}&fit=cover&mask=circle&border=white&borderwidth=2`;
+
+      return `<a href="${html_url}" title="${login}"><img src="${circularImageUrl}" alt="${alt}" width="${AVATAR_SIZE}" height="${AVATAR_SIZE}" style="border-radius: 50%;"/></a>`;
     })
     .join("\n");
 
@@ -123,8 +129,7 @@ async function fetchAllContributors(owner, repo, limit) {
     // Respect preference: do NOT auto-create any sections.
     if (!hasRequiredSection(original)) {
       console.log(
-        `[update-contributors] Required section not found. Expecting BOTH:\n` +
-          `  • ${DETAILS_SUMMARY_TEXT}\n` +
+        `[update-contributors] Required section not found. Expecting:\n` +
           `  • ${START_MARKER} ... ${END_MARKER}\n` +
           `No changes made. Exiting successfully.`
       );
