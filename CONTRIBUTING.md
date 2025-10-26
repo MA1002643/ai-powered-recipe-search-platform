@@ -31,8 +31,8 @@ Please read and follow our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## 🧭 Getting Started
 
-- **💬 [Join the Discussions](https://github.com/MA1002643/ai-powered-recipe-search-platform/discussions)**: Share your insights, provide feedback, or ask questions about Vevox.
-- **🐛 [Report Issues](https://github.com/MA1002643/ai-powered-recipe-search-platform/issues)**: Submit bugs found or log feature requests for the `vevox-real-time-chat-web-application` project.
+- **💬 [Join the Discussions](https://github.com/MA1002643/ai-powered-recipe-search-platform/discussions)**: Share your insights, provide feedback, or ask questions about AI Recipe Search Platform.
+- **🐛 [Report Issues](https://github.com/MA1002643/ai-powered-recipe-search-platform/issues)**: Submit bugs found or log feature requests for the `ai-powered-recipe-search-platform` project.
 - **💡 [Submit Pull Requests](https://github.com/MA1002643/ai-powered-recipe-search-platform/pulls)**: Review open PRs, and submit your own PRs.
 
 <a id="ai--recipe--community--issue-hub"></a>
@@ -77,7 +77,7 @@ This repository serves as a community space to:
 2. Use the Feature Request template
 3. Describe clearly:
    - The feature you'd like to see
-   - Why it would be valuable for Vevox users
+   - Why it would be valuable for ai-powered-recipe-search-platform users
    - Any design/implementation ideas or trade-offs
 
 <a id="proposing-an-integration-or-extension"></a>
@@ -106,7 +106,7 @@ We use labels to indicate issue state. Common labels include:
 
 ## 🙌 Contributing Guide
 
-Thanks for considering contributing to Vevox! Below is a short, friendly guide to make it easy for first-time contributors.
+Thanks for considering contributing to ai-powered-recipe-search-platform! Below is a short, friendly guide to make it easy for first-time contributors.
 
 <a id="what-you-can-contribute"></a>
 
