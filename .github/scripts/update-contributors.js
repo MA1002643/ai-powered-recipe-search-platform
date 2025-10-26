@@ -61,7 +61,7 @@ function buildContributorsHtml(contributors) {
       const html_url = c.html_url ?? `https://github.com/${login}`;
       const avatar = c.avatar_url;
       const alt = login;
-      return `<a href="${html_url}" title="${login}"><img src="${avatar}" width="${AVATAR_SIZE}" height="${AVATAR_SIZE}" alt="${alt}"/></a>`;
+      return `<a href="${html_url}" title="${login}"><img src="${avatar}" width="${AVATAR_SIZE}" height="${AVATAR_SIZE}" alt="${alt}" style="border-radius: 50%; margin: 4px;"/></a>`;
     })
     .join("\n");
 
