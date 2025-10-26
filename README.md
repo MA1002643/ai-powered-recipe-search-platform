@@ -27,6 +27,27 @@
 <br>
 <!-- TECH-STACK:START -->
 
+<div align="center" style="display:flex;flex-wrap:wrap;gap:6px;align-items:center;justify-content:center;margin:0 auto;">
+<img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=flat&logo=axios&logoColor=white" alt="Axios">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/bootstrap-vue-444444.svg?style=flat&logo=bootstrap-vue&logoColor=white" alt="bootstrap-vue">
+<img src="https://img.shields.io/badge/email-validator-444444.svg?style=flat&logo=email-validator&logoColor=white" alt="email-validator">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js">
+<img src="https://img.shields.io/badge/vue-router-444444.svg?style=flat&logo=vue-router&logoColor=white" alt="vue-router">
+<img src="https://img.shields.io/badge/%40vitejs%2Fplugin-vue-444444.svg?style=flat&logo=%40vitejs%2Fplugin-vue&logoColor=white" alt="@vitejs/plugin-vue">
+<img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite">
+<img src="https://img.shields.io/badge/chai-http-444444.svg?style=flat&logo=chai-http&logoColor=white" alt="chai-http">
+<img src="https://img.shields.io/badge/CORS-444444.svg?style=flat&logo=cors&logoColor=white" alt="CORS">
+<img src="https://img.shields.io/badge/Express-000000.svg?style=flat&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/joi-444444.svg?style=flat&logo=joi&logoColor=white" alt="joi">
+<img src="https://img.shields.io/badge/morgan-444444.svg?style=flat&logo=morgan&logoColor=white" alt="morgan">
+<img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/swagger-autogen-444444.svg?style=flat&logo=swagger-autogen&logoColor=white" alt="swagger-autogen">
+<img src="https://img.shields.io/badge/swagger-ui-express-444444.svg?style=flat&logo=swagger-ui-express&logoColor=white" alt="swagger-ui-express">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
+</div>
+
 <!-- TECH-STACK:END -->
 </div>
 <br>
