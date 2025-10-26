@@ -368,7 +368,6 @@ The core features include:
       </details>
    </details>
 
-
 </details>
 
 ---
@@ -468,11 +467,11 @@ npm test
 ## 🤝 Contributors
 
 <details>
-<p align="left">
+<summary>Contributor Graph</summary>
 <!-- CONTRIBUTORS:START -->
-
-<!-- CONTRIBUTORS:END -->
+<p align="left">
 </p>
+<!-- CONTRIBUTORS:END -->
 </details>
 
 ---
