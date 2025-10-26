@@ -113,22 +113,69 @@ The core features include:
 
 ```sh
 └── ai-powered-recipe-search-platform/
-    ├── Backend
-    │   ├── .gitignore
-    │   ├── LICENSE
-    │   ├── README.md
-    │   ├── app
-    │   ├── database.js
-    │   ├── package-lock.json
-    │   ├── package.json
-    │   ├── server.js
-    │   ├── swagger.js
-    │   └── swagger.json
-    ├── Frontend
-    │   ├── .vscode
-    │   ├── README.md
-    │   └── Recipe-Frontend
-    └── config.js
+├── Backend/
+│   ├── app/
+│   │   ├── controllers/
+│   │   │   ├── ratings.controller.js
+│   │   │   ├── recipe.controller.js
+│   │   │   └── users.controller.js
+│   │   ├── libs/
+│   │   │   └── middleware.js
+│   │   ├── models/
+│   │   │   ├── ratings.model.js
+│   │   │   ├── recipe.model.js
+│   │   │   └── users.model.js
+│   │   └── routes/
+│   │       ├── ratings.routes.js
+│   │       ├── recipe.routes.js
+│   │       └── users.routes.js
+│   ├── .gitignore
+│   ├── database.js
+│   ├── LICENSE
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── README.md
+│   ├── server.js
+│   ├── swagger.js
+│   └── swagger.json
+├── Frontend/
+│   ├── Recipe-Frontend/
+│   │   ├── src/
+│   │   │   ├── router/
+│   │   │   │   └── index.js
+│   │   │   ├── services/
+│   │   │   │   ├── feed.service.js
+│   │   │   │   ├── recipes.service.js
+│   │   │   │   └── users.service.js
+│   │   │   ├── views/
+│   │   │   │   ├── components/
+│   │   │   │   │   ├── button_test.vue
+│   │   │   │   │   └── recipe_modal.vue
+│   │   │   │   ├── pages/
+│   │   │   │   │   ├── Dashboard.vue
+│   │   │   │   │   ├── Feed.vue
+│   │   │   │   │   ├── Home.vue
+│   │   │   │   │   ├── Login.vue
+│   │   │   │   │   ├── Recipe.vue
+│   │   │   │   │   ├── RecipeCreate.vue
+│   │   │   │   │   └── Signup.vue
+│   │   │   │   └── App.vue
+│   │   │   └── main.js
+│   │   ├── .gitignore
+│   │   ├── CODE_OF_CONDUCT.md
+│   │   ├── index.html
+│   │   ├── LICENSE
+│   │   ├── package-lock.json
+│   │   ├── package.json
+│   │   └── vite.config.js
+│   └── README.md
+├── .gitignore
+├── CODE_OF_CONDUCT.md
+├── config.js
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+└── SECURITY.md
 ```
 
 ---
