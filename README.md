@@ -80,7 +80,7 @@
 
 **AI-Powered Recipe Search Platform** is a working application that helps users **find recipes from the ingredients they provide**. The repository contains a **Frontend** (Vue-based UI) and a **Backend** folder, reflecting a full project that runs end-to-end, not just a boilerplate template.
 
-### What it does (factually)
+### What it does
 
 - **Ingredient-driven search:** Users enter one or more ingredients; the app returns relevant recipe ideas powered by an AI-assisted search flow.
 - **Personalised suggestions & filtering:** Designed to surface recipes aligned to user inputs (with support for refinement/personalisation as implemented in the repo).
