@@ -1,6 +1,6 @@
 # Security Policy
 
-We take security seriously for **ai-powered-recipe-search-platform**.
+We take security seriously for **culina**.
 
 ## Supported Versions
 

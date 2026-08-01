@@ -1,4 +1,4 @@
-# Codebase Audit — ai-powered-recipe-search-platform
+# Codebase Audit — Culina (audited as `ai-powered-recipe-search-platform`)
 
 **Audit date:** 1 August 2026
 **Auditor:** Automated full-codebase review (every file read; nothing sampled)
@@ -28,8 +28,7 @@ The codebase also carries serious defects, including one **critical, currently e
 
 | Item | Value |
 |---|---|
-| GitHub repo | `MA1002643/ai-powered-recipe-search-platform` (public) |
-| Git remote in working copy | `MA1002643/recipe-finder.git` (old pre-rename URL; still resolves) |
+| GitHub repo | `MA1002643/culina` (public; renamed from `ai-powered-recipe-search-platform` on 2026-08-01, which was itself renamed from `recipe-finder` — both old URLs redirect) |
 | Default branch | `main` |
 | History | 20 commits, first commit 2025-10-09 |
 | License | MIT (root, plus duplicate LICENSE files in `Backend/` and `Frontend/Recipe-Frontend/`) |

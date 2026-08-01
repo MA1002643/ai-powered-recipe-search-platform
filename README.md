@@ -3,22 +3,22 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<h1 align="center">AI-POWERED-RECIPE-SEARCH-PLATFORM</h1>
-<p align="center"><em>Discover Deliciousness Instantly, Powered by AI</em></p>
+<h1 align="center">CULINA</h1>
+<p align="center"><em>Your kitchen, intelligent — AI-powered cooking from the ingredients you already have</em></p>
 
 <!-- BADGES -->
-<a href="https://github.com/MA1002643/ai-powered-recipe-search-platform/blob/main/LICENSE" alt="license">
+<a href="https://github.com/MA1002643/culina/blob/main/LICENSE" alt="license">
    <img src="https://img.shields.io/badge/license-MIT-green?style=flat&logo=opensourceinitiative&logoColor=white" alt="MIT License" />
 </a>
-<img src="https://img.shields.io/github/last-commit/MA1002643/ai-powered-recipe-search-platform?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-<a href="https://github.com/MA1002643/ai-powered-recipe-search-platform/discussions" alt="Discussions">
-   <img src="https://img.shields.io/github/discussions/MA1002643/ai-powered-recipe-search-platform" alt="Discussions" />
+<img src="https://img.shields.io/github/last-commit/MA1002643/culina?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+<a href="https://github.com/MA1002643/culina/discussions" alt="Discussions">
+   <img src="https://img.shields.io/github/discussions/MA1002643/culina" alt="Discussions" />
 </a>
-<a href="https://github.com/MA1002643/ai-powered-recipe-search-platform/stargazers">
-   <img src="https://custom-icon-badges.demolab.com/github/stars/MA1002643/ai-powered-recipe-search-platform?logo=star&style=flat" alt="stars" />
+<a href="https://github.com/MA1002643/culina/stargazers">
+   <img src="https://custom-icon-badges.demolab.com/github/stars/MA1002643/culina?logo=star&style=flat" alt="stars" />
 </a>
-<a href="https://github.com/MA1002643/ai-powered-recipe-search-platform/issues">
-   <img src="https://custom-icon-badges.demolab.com/github/issues-raw/MA1002643/ai-powered-recipe-search-platform?logo=issue" alt="issues" />
+<a href="https://github.com/MA1002643/culina/issues">
+   <img src="https://custom-icon-badges.demolab.com/github/issues-raw/MA1002643/culina?logo=issue" alt="issues" />
 </a>
 <br>
 <br>
@@ -78,7 +78,7 @@
 
 ## ✨ Overview
 
-**AI-Powered Recipe Search Platform** is a working application that helps users **find recipes from the ingredients they provide**. The repository contains a **Frontend** (Vue-based UI) and a **Backend** folder, reflecting a full project that runs end-to-end, not just a boilerplate template.
+**Culina** (formerly *AI-Powered Recipe Search Platform*) is a working application that helps users **find recipes from the ingredients they provide**. The repository contains a **Frontend** (Vue-based UI) and a **Backend** folder, reflecting a full project that runs end-to-end, not just a boilerplate template.
 
 ### What it does
 
@@ -88,7 +88,7 @@
 
 > Tech snapshot (from the repo): primary languages are **JavaScript** and **Vue**, with a small amount of **HTML**; the repo includes distinct **Frontend** and **Backend** folders.
 
-**Why ai-powered-recipe-search-platform?**
+**Why culina?**
 
 The core features include:
 
@@ -133,7 +133,7 @@ The core features include:
 ## 📁 Project Structure
 
 ```sh
-└── ai-powered-recipe-search-platform/
+└── culina/
 ├── Backend/
 │   ├── app/
 │   │   ├── controllers/
@@ -214,7 +214,7 @@ The core features include:
 ### 📑 Project Index
 
 <details open>
-   <summary><b>AI-POWERED-RECIPE-SEARCH-PLATFORM/</b></summary>
+   <summary><b>CULINA/</b></summary>
    <details>
       <summary><b>__root__</b></summary>
       <ul>
@@ -419,18 +419,18 @@ This project requires the following dependencies:
 
 ### ⚙️ Installation
 
-Build ai-powered-recipe-search-platform from the source and install dependencies:
+Build culina from the source and install dependencies:
 
 1. **Clone the repository:**
 
    ```sh
-   ❯ git clone https://github.com/MA1002643/ai-powered-recipe-search-platform
+   ❯ git clone https://github.com/MA1002643/culina
    ```
 
 2. **Navigate to the project directory:**
 
    ```sh
-   ❯ cd ai-powered-recipe-search-platform
+   ❯ cd culina
    ```
 
 3. **Install the dependencies:**
@@ -457,7 +457,7 @@ npm start
 
 ### 🧪 Testing
 
-Ai-powered-recipe-search-platform uses the {**test_framework**} test framework. Run the test suite with:
+Culina uses the {**test_framework**} test framework. Run the test suite with:
 
 **Using [npm](https://www.npmjs.com/):**
 
@@ -518,7 +518,7 @@ npm test
 
 ## 📜 License
 
-This project is licensed under the **[MIT License](https://github.com/MA1002643/ai-powered-recipe-search-platform/blob/main/LICENSE)**. See the **[LICENSE](https://choosealicense.com/licenses/)** file for full details.
+This project is licensed under the **[MIT License](https://github.com/MA1002643/culina/blob/main/LICENSE)**. See the **[LICENSE](https://choosealicense.com/licenses/)** file for full details.
 
 #
 

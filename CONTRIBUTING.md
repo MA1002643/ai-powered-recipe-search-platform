@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Thanks for your interest in contributing to **ai-powered-recipe-search-platform** 🎉  
+Thanks for your interest in contributing to **culina** 🎉  
 We welcome issues, feature requests, bug reports, and pull requests.
 
 ## Table of Contents
@@ -31,9 +31,9 @@ Please read and follow our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## 🧭 Getting Started
 
-- **💬 [Join the Discussions](https://github.com/MA1002643/ai-powered-recipe-search-platform/discussions)**: Share your insights, provide feedback, or ask questions about AI Recipe Search Platform.
-- **🐛 [Report Issues](https://github.com/MA1002643/ai-powered-recipe-search-platform/issues)**: Submit bugs found or log feature requests for the `ai-powered-recipe-search-platform` project.
-- **💡 [Submit Pull Requests](https://github.com/MA1002643/ai-powered-recipe-search-platform/pulls)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://github.com/MA1002643/culina/discussions)**: Share your insights, provide feedback, or ask questions about AI Recipe Search Platform.
+- **🐛 [Report Issues](https://github.com/MA1002643/culina/issues)**: Submit bugs found or log feature requests for the `culina` project.
+- **💡 [Submit Pull Requests](https://github.com/MA1002643/culina/pulls)**: Review open PRs, and submit your own PRs.
 
 <a id="ai--recipe--community--issue-hub"></a>
 
@@ -60,7 +60,7 @@ This repository serves as a community space to:
 
 #### 🐞 Reporting an Issue
 
-1. Open the Bug Report form: [Create a Bug Report](https://github.com/MA1002643/ai-powered-recipe-search-platform/issues/new?assignees=&labels=bug%2C+needs+triage&template=bug_report.yml&title=%5BUG%5D+)
+1. Open the Bug Report form: [Create a Bug Report](https://github.com/MA1002643/culina/issues/new?assignees=&labels=bug%2C+needs+triage&template=bug_report.yml&title=%5BUG%5D+)
 2. Choose the appropriate template (Bug Report or Feature Request)
 3. Provide as much detail as possible:
    - Steps to reproduce
@@ -73,11 +73,11 @@ This repository serves as a community space to:
 
 #### ✨ Requesting a New Feature
 
-1. Open the Feature Request form: [Create a Feature Request](https://github.com/MA1002643/ai-powered-recipe-search-platform/issues/new?assignees=&labels=enhancement%2C+idea&template=feature_request.yml&title=%5BFEATURE%5D+)
+1. Open the Feature Request form: [Create a Feature Request](https://github.com/MA1002643/culina/issues/new?assignees=&labels=enhancement%2C+idea&template=feature_request.yml&title=%5BFEATURE%5D+)
 2. Use the Feature Request template
 3. Describe clearly:
    - The feature you'd like to see
-   - Why it would be valuable for ai-powered-recipe-search-platform users
+   - Why it would be valuable for culina users
    - Any design/implementation ideas or trade-offs
 
 <a id="proposing-an-integration-or-extension"></a>
@@ -106,7 +106,7 @@ We use labels to indicate issue state. Common labels include:
 
 ## 🙌 Contributing Guide
 
-Thanks for considering contributing to ai-powered-recipe-search-platform! Below is a short, friendly guide to make it easy for first-time contributors.
+Thanks for considering contributing to culina! Below is a short, friendly guide to make it easy for first-time contributors.
 
 <a id="what-you-can-contribute"></a>
 
