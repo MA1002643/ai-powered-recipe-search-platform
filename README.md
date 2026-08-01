@@ -305,6 +305,27 @@ The core features include:
    </details>
 
    <details>
+      <summary><b>docs</b></summary>
+      <ul>
+         <li><b><a href="docs/MIGRATION_PLAN.md">MIGRATION_PLAN.md</a></b> — File.</li>
+      </ul>
+      <details>
+         <summary><b>adr</b></summary>
+      <ul>
+         <li><b><a href="docs/adr/ADR-001-cross-platform-strategy.md">ADR-001-cross-platform-strategy.md</a></b> — File.</li>
+         <li><b><a href="docs/adr/ADR-002-ai-cloud-architecture.md">ADR-002-ai-cloud-architecture.md</a></b> — File.</li>
+         <li><b><a href="docs/adr/ADR-003-design-system.md">ADR-003-design-system.md</a></b> — File.</li>
+      </ul>
+      </details>
+      <details>
+         <summary><b>audit</b></summary>
+      <ul>
+         <li><b><a href="docs/audit/CODEBASE_AUDIT.md">CODEBASE_AUDIT.md</a></b> — File.</li>
+      </ul>
+      </details>
+   </details>
+
+   <details>
       <summary><b>Frontend</b></summary>
       <ul>
          <li><b><a href="Frontend/README.md">README.md</a></b> — Project documentation, overview and setup instructions.</li>
