@@ -159,6 +159,14 @@ The core features include:
 │   ├── server.js
 │   ├── swagger.js
 │   └── swagger.json
+├── docs/
+│   ├── adr/
+│   │   ├── ADR-001-cross-platform-strategy.md
+│   │   ├── ADR-002-ai-cloud-architecture.md
+│   │   └── ADR-003-design-system.md
+│   ├── audit/
+│   │   └── CODEBASE_AUDIT.md
+│   └── MIGRATION_PLAN.md
 ├── Frontend/
 │   ├── Recipe-Frontend/
 │   │   ├── src/
