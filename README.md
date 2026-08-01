@@ -159,6 +159,14 @@ The core features include:
 │   ├── server.js
 │   ├── swagger.js
 │   └── swagger.json
+├── docs/
+│   ├── adr/
+│   │   ├── ADR-001-cross-platform-strategy.md
+│   │   ├── ADR-002-ai-cloud-architecture.md
+│   │   └── ADR-003-design-system.md
+│   ├── audit/
+│   │   └── CODEBASE_AUDIT.md
+│   └── MIGRATION_PLAN.md
 ├── Frontend/
 │   ├── Recipe-Frontend/
 │   │   ├── src/
@@ -301,6 +309,27 @@ The core features include:
          <li><b><a href="Backend/app/routes/users.routes.js">users.routes.js</a></b> — JavaScript file.</li>
       </ul>
       </details>
+      </details>
+   </details>
+
+   <details>
+      <summary><b>docs</b></summary>
+      <ul>
+         <li><b><a href="docs/MIGRATION_PLAN.md">MIGRATION_PLAN.md</a></b> — File.</li>
+      </ul>
+      <details>
+         <summary><b>adr</b></summary>
+      <ul>
+         <li><b><a href="docs/adr/ADR-001-cross-platform-strategy.md">ADR-001-cross-platform-strategy.md</a></b> — File.</li>
+         <li><b><a href="docs/adr/ADR-002-ai-cloud-architecture.md">ADR-002-ai-cloud-architecture.md</a></b> — File.</li>
+         <li><b><a href="docs/adr/ADR-003-design-system.md">ADR-003-design-system.md</a></b> — File.</li>
+      </ul>
+      </details>
+      <details>
+         <summary><b>audit</b></summary>
+      <ul>
+         <li><b><a href="docs/audit/CODEBASE_AUDIT.md">CODEBASE_AUDIT.md</a></b> — File.</li>
+      </ul>
       </details>
    </details>
 
