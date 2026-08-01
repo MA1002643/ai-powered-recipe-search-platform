@@ -31,7 +31,7 @@ Please read and follow our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
 ## 🧭 Getting Started
 
-- **💬 [Join the Discussions](https://github.com/MA1002643/culina/discussions)**: Share your insights, provide feedback, or ask questions about AI Recipe Search Platform.
+- **💬 [Join the Discussions](https://github.com/MA1002643/culina/discussions)**: Share your insights, provide feedback, or ask questions about Culina.
 - **🐛 [Report Issues](https://github.com/MA1002643/culina/issues)**: Submit bugs found or log feature requests for the `culina` project.
 - **💡 [Submit Pull Requests](https://github.com/MA1002643/culina/pulls)**: Review open PRs, and submit your own PRs.
 
@@ -124,7 +124,7 @@ Thanks for considering contributing to culina! Below is a short, friendly guide 
 ### ⚡ Quick Contribution Steps
 
 1. Fork the repository using the GitHub web UI.
-2. Clone your fork and install dependencies in `AI-POWERED RECIPE SEARCH PLATFORM`:
+2. Clone your fork and install dependencies in `culina`:
    ```bash
    cd "Frontend" or  cd "Backend"
    npm install
