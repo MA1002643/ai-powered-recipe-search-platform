@@ -1,5 +1,5 @@
 import axios from "axios";
-import { API_KEY } from "/Users/muhammadabdullah/Desktop/GitHub/Recipe/config.js";
+import { API_KEY } from "../../../../config.js";
 
 const getRecipe = (pantry_ingredients) => {
   const options = {

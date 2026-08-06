@@ -27,7 +27,7 @@ Stages map 1:1 to the GitHub milestones (M0–M7). Dates assume start 2026-08-03
 
 *Goal: create the single source of truth without touching production behaviour.*
 
-- Turborepo + pnpm workspaces; move `Backend/` → `apps/api-v1`, `Frontend/Recipe-Frontend/` → `apps/web-v1` **unchanged** (git history preserved via `git mv`).
+- Turborepo + pnpm workspaces; move `Backend/` → `apps/api-v1`, `Frontend/Culina-Frontend/` → `apps/web-v1` **unchanged** (git history preserved via `git mv`).
 - `packages/contracts`: Zod schemas for every entity and endpoint in the audit's API table (§2.4), generated OpenAPI 3 doc replacing swagger-autogen; port the Joi rules (password policy etc.) verbatim.
 - `packages/core`: TypeScript domain logic (recipe normalisation, ingredient parsing, session rules) extracted from v1 by porting, with unit tests.
 - TypeScript, shared ESLint/Prettier config, Changesets for semver, ADR process live in `docs/adr/`.

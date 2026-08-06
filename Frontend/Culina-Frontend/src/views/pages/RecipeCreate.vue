@@ -15,10 +15,10 @@
               <div class="col-xl-6">
                 <div class="card-body p-md-5 text-black">
                   <h3 class="mb-5 text-uppercase text-center font-weight-bold">
-                    RF Reciepe Form
+                    Culina Recipe Form
                   </h3>
                   <p class="text-white-50 mb-5 text-center">
-                    Register a new Recepie
+                    Register a new Recipe
                   </p>
 
                   <form @submit.prevent="handleSubmit">
@@ -90,7 +90,7 @@
                     <div v-if="error">{{ error }}</div>
                   </form>
 
-                  <h1>Reciepe By User</h1>
+                  <h1>Recipe By User</h1>
                   <hr class="style1" />
                 </div>
               </div>

@@ -168,7 +168,7 @@ The core features include:
 │   │   └── CODEBASE_AUDIT.md
 │   └── MIGRATION_PLAN.md
 ├── Frontend/
-│   ├── Recipe-Frontend/
+│   ├── Culina-Frontend/
 │   │   ├── src/
 │   │   │   ├── router/
 │   │   │   │   └── index.js
@@ -339,57 +339,57 @@ The core features include:
          <li><b><a href="Frontend/README.md">README.md</a></b> — Project documentation, overview and setup instructions.</li>
       </ul>
       <details>
-         <summary><b>Recipe-Frontend</b></summary>
+         <summary><b>Culina-Frontend</b></summary>
       <ul>
-         <li><b><a href="Frontend/Recipe-Frontend/.gitignore">.gitignore</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/index.html">index.html</a></b> — HTML page.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/LICENSE">LICENSE</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/package-lock.json">package-lock.json</a></b> — Lockfile with exact dependency versions.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/package.json">package.json</a></b> — Npm manifest (dependencies & scripts).</li>
-         <li><b><a href="Frontend/Recipe-Frontend/vite.config.js">vite.config.js</a></b> — JavaScript file.</li>
+         <li><b><a href="Frontend/Culina-Frontend/.gitignore">.gitignore</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/index.html">index.html</a></b> — HTML page.</li>
+         <li><b><a href="Frontend/Culina-Frontend/LICENSE">LICENSE</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/package-lock.json">package-lock.json</a></b> — Lockfile with exact dependency versions.</li>
+         <li><b><a href="Frontend/Culina-Frontend/package.json">package.json</a></b> — Npm manifest (dependencies & scripts).</li>
+         <li><b><a href="Frontend/Culina-Frontend/vite.config.js">vite.config.js</a></b> — JavaScript file.</li>
       </ul>
       <details>
          <summary><b>src</b></summary>
       <ul>
-         <li><b><a href="Frontend/Recipe-Frontend/src/main.js">main.js</a></b> — WebSocket-related JavaScript.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/main.js">main.js</a></b> — WebSocket-related JavaScript.</li>
       </ul>
       <details>
          <summary><b>router</b></summary>
       <ul>
-         <li><b><a href="Frontend/Recipe-Frontend/src/router/index.js">index.js</a></b> — Main server entrypoint that wires HTTP and WebSocket servers.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/router/index.js">index.js</a></b> — Main server entrypoint that wires HTTP and WebSocket servers.</li>
       </ul>
       </details>
       <details>
          <summary><b>services</b></summary>
       <ul>
-         <li><b><a href="Frontend/Recipe-Frontend/src/services/feed.service.js">feed.service.js</a></b> — JavaScript file.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/src/services/recipes.service.js">recipes.service.js</a></b> — JavaScript file.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/src/services/users.service.js">users.service.js</a></b> — JavaScript file.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/services/feed.service.js">feed.service.js</a></b> — JavaScript file.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/services/recipes.service.js">recipes.service.js</a></b> — JavaScript file.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/services/users.service.js">users.service.js</a></b> — JavaScript file.</li>
       </ul>
       </details>
       <details>
          <summary><b>views</b></summary>
       <ul>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/App.vue">App.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/App.vue">App.vue</a></b> — File.</li>
       </ul>
       <details>
          <summary><b>components</b></summary>
       <ul>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/components/button_test.vue">button_test.vue</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/components/recipe_modal.vue">recipe_modal.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/components/button_test.vue">button_test.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/components/recipe_modal.vue">recipe_modal.vue</a></b> — File.</li>
       </ul>
       </details>
       <details>
          <summary><b>pages</b></summary>
       <ul>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/pages/Dashboard.vue">Dashboard.vue</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/pages/Feed.vue">Feed.vue</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/pages/Home.vue">Home.vue</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/pages/Login.vue">Login.vue</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/pages/Recipe.vue">Recipe.vue</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/pages/RecipeCreate.vue">RecipeCreate.vue</a></b> — File.</li>
-         <li><b><a href="Frontend/Recipe-Frontend/src/views/pages/Signup.vue">Signup.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/pages/Dashboard.vue">Dashboard.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/pages/Feed.vue">Feed.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/pages/Home.vue">Home.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/pages/Login.vue">Login.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/pages/Recipe.vue">Recipe.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/pages/RecipeCreate.vue">RecipeCreate.vue</a></b> — File.</li>
+         <li><b><a href="Frontend/Culina-Frontend/src/views/pages/Signup.vue">Signup.vue</a></b> — File.</li>
       </ul>
       </details>
       </details>

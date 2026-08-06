@@ -9,7 +9,7 @@
 
 ## 1. Executive summary
 
-The brief describes the starting point as "a simple static website". The audit shows the reality is more valuable than that: this is a **two-tier full-stack application** — a Vue 3 + Vite single-page app (`Frontend/Recipe-Frontend/`) and an Express + SQLite REST API (`Backend/`) — built as a university-style project around a clear product idea: *find recipes from the ingredients in your pantry*.
+The brief describes the starting point as "a simple static website". The audit shows the reality is more valuable than that: this is a **two-tier full-stack application** — a Vue 3 + Vite single-page app (`Frontend/Culina-Frontend/`) and an Express + SQLite REST API (`Backend/`) — built as a university-style project around a clear product idea: *find recipes from the ingredients in your pantry*.
 
 - **~5,100 lines of first-party source** (excluding lockfiles and generated Swagger output).
 - **Working features today:** ingredient-based recipe search (via the external Spoonacular API), a community recipe feed with CRUD, saving recipes to a personal dashboard, a ratings API, and email/password authentication with session tokens.
@@ -31,7 +31,7 @@ The codebase also carries serious defects, including one **critical, currently e
 | GitHub repo | `MA1002643/culina` (public; renamed from `ai-powered-recipe-search-platform` on 2026-08-01, which was itself renamed from `recipe-finder` — both old URLs redirect) |
 | Default branch | `main` |
 | History | 20 commits, first commit 2025-10-09 |
-| License | MIT (root, plus duplicate LICENSE files in `Backend/` and `Frontend/Recipe-Frontend/`) |
+| License | MIT (root, plus duplicate LICENSE files in `Backend/` and `Frontend/Culina-Frontend/`) |
 
 ### 2.2 Root files
 
@@ -107,7 +107,7 @@ The codebase also carries serious defects, including one **critical, currently e
 | `DELETE /recipeSave/:saved_id` | middleware | Remove saved — **no ownership check** (§7.2) |
 | `GET`/`POST /recipes/:recipe_id/ratings` | GET open / POST token | Average rating / add rating |
 
-### 2.5 `Frontend/Recipe-Frontend/` — Vue 3 + Vite SPA
+### 2.5 `Frontend/Culina-Frontend/` — Vue 3 + Vite SPA
 
 | File | Lines | Purpose |
 |---|---:|---|

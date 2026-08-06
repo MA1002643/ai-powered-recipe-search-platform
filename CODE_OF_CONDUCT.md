@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-_This Code of Conduct applies to the **[ai-powered-recipe-search-platform](https://github.com/MA1002643/ai-powered-recipe-search-platform)** project and all related community spaces._
+_This Code of Conduct applies to the **[Culina](https://github.com/MA1002643/culina)** project and all related community spaces._
 
 ## Our Pledge
 

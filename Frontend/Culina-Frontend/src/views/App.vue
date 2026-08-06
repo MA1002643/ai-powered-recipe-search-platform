@@ -2,7 +2,7 @@
   <nav class="navbar">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a class="navbar-brand font-weight-bold" style="color: #a8c7ae;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:3vh;font-weight: bold;" href="#">Recipe finder</a>
+        <a class="navbar-brand font-weight-bold" style="color: #a8c7ae;font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:3vh;font-weight: bold;" href="#">Culina</a>
       </div>
       <router-link class="navbar-link" style="text-decoration:none; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:2.7vh; font-weight: lighter; font-variant: small-caps;" to="/">
         h o m e

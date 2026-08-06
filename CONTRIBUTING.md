@@ -7,7 +7,7 @@ We welcome issues, feature requests, bug reports, and pull requests.
 
 - [Code of Conduct](#code-of-conduct)
 - [Getting Started](#getting-started)
-- [Ai Recipe — Community & Issue Hub](#ai--recipe--community--issue-hub)
+- [Culina — Community & Issue Hub](#culina--community--issue-hub)
   - [Purpose](#purpose)
   - [How to Contribute](#how-to-contribute)
     - [Reporting an Issue](#reporting-an-issue)
@@ -35,9 +35,9 @@ Please read and follow our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 - **🐛 [Report Issues](https://github.com/MA1002643/culina/issues)**: Submit bugs found or log feature requests for the `culina` project.
 - **💡 [Submit Pull Requests](https://github.com/MA1002643/culina/pulls)**: Review open PRs, and submit your own PRs.
 
-<a id="ai--recipe--community--issue-hub"></a>
+<a id="culina--community--issue-hub"></a>
 
-## 🗂️ Ai Recipe — Community & Issue Hub
+## 🗂️ Culina — Community & Issue Hub
 
 This project welcomes community feedback and feature suggestions.
 
@@ -47,9 +47,9 @@ This project welcomes community feedback and feature suggestions.
 
 This repository serves as a community space to:
 
-- Report bugs and unexpected behaviours in the Ai Powered recipe platform
+- Report bugs and unexpected behaviours in Culina
 - Request new features or improvements
-- Propose integrations or ideas for extending Ai Powered pecipe platform (for example: MCP-style adapters, plugins, or example integrations)
+- Propose integrations or ideas for extending Culina (for example: MCP-style adapters, plugins, or example integrations)
 - Track the status of reported issues and feature requests
 
 <a id="how-to-contribute"></a>
@@ -114,9 +114,9 @@ Thanks for considering contributing to culina! Below is a short, friendly guide 
 
 - Improve documentation or fix typos
 - Suggest or add useful scripts, tools, or configurations (build scripts, example clients)
-- Add UI/UX improvements to the chat frontend
+- Add UI/UX improvements to the frontend
 - Report bugs or suggest new features
-- Add sample integrations or adapters (e.g., connecting Vevox to other platforms)
+- Add sample integrations or adapters (e.g., connecting Culina to other platforms)
 - Add tests or improve existing test coverage
 
 <a id="quick-contribution-steps"></a>

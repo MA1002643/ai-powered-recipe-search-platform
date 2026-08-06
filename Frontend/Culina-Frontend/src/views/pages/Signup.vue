@@ -24,7 +24,7 @@
               <div class="col-xl-6">
                 <div class="card-body p-md-5 text-black">
                   <h3 class="mb-5 text-uppercase text-center font-weight-bold">
-                    RF Registration Form
+                    Culina Registration Form
                   </h3>
                   <p class="text-white-50 mb-5 text-center">
                     Please create your account
